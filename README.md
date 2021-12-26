@@ -8,14 +8,14 @@
 
 ## The challenge
 
-Your challenge is to build out this landing page, integrate with our [Pay4me Dev API](https://dev.pay4me.app/docs/index.html) and get it looking as close to the design as possible.
-Your challenge is to integrate with the [REST Countries V2 API](https://restcountries.com/#api-endpoints-v2) to pull country data and display it like in the designs.
+Your challenge is to create and integrate an authenticated page using our [Pay4me Dev API](https://dev.pay4me.app/docs/index.html) with the [REST Countries V2 API](https://restcountries.com/#api-endpoints-v2) to pull country data and display it like in the designs.
+
 
 You can only use Vue/Nuxtjs as your JavaScript framework/library with either TailwindCSS (preferable)/Bootstrap. You also have complete control over which packages you use to do things like make HTTP requests or style your project.
 
 Your task is to:
 - Design the optimal layout for the site depending on their device's screen size
-- Create a new login page and to make the login functional using the above API to an empty home page with successful message.
+- Add simple minimal authentication pages like (Login, Register, Forgot & Reset Password page) using the [Pay4me Dev API](https://dev.pay4me.app/docs/index.html).
 - See all countries from the API on the homepage
 - Search for a country using an `input` field
 - Filter countries by region
